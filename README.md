@@ -37,7 +37,7 @@ This repository contains a simple web application for generating Fibonacci seque
 Contributions to this repository are welcome! If you have ideas for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request. Additionally, you can report any issues or bugs you encounter by opening an issue in the repository.
 
 ## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for both personal and commercial purposes. Refer to the LICENSE file for more details.
+This project  is licensed under the MIT License. Feel free to use, modify, and distribute the code for both personal and commercial purposes. Refer to the LICENSE file for more details.
 
 ---
 
