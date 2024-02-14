@@ -9,7 +9,7 @@ This repository contains a simple web application for generating Fibonacci seque
 - :sparkles: User-friendly interface: The web application has a clean and intuitive interface, making it easy for users to input their desired number of terms and generate the Fibonacci sequence.
 - :gear: Dynamic generation: The application dynamically generates the Fibonacci sequence based on user input, ensuring accurate and efficient results.
 - :books: Educational content: In addition to the sequence generator, the application provides educational content about the significance of the Fibonacci sequence, including its mathematical properties and real-world applications.
-- :iphone: Responsive design: The application is designed to be responsive and compatible with various devices and screen sizes, allowing users to access it seamlessly from desktops, tablets, and smartphones.
+- :iphone: Responsive design : The application is designed to be responsive and compatible with various devices and screen sizes, allowing users to access it seamlessly from desktops, tablets, and smartphones.
 
 ## Technologies Used
 - HTML: Markup language for structuring the web page.
